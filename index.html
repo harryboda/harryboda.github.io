@@ -1,15 +1,15 @@
-  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
- 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
-  <head> 
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /> 
-        <title>乐天 http://Xyg.Name</title> 
-  </head> 
-  <body> 
+---
+layout: default
+title: 乐天
+---
 
-临时主页存放地。有任何问题，请联系EMail/MSN/Gtalk/QQ：  i#xyg.name .(#替换为@)
-    
-  </body> 
-</html> 
- 
+<div id="content" class="index">
+
+	<p class="nav">BLOG</p>
+	<ul class="posts">
+		{% for post in site.categories.blog %}
+		<li><p class="date">{{ post.date | date:"%Y-%m-%d" }}</p> <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+
+</div>

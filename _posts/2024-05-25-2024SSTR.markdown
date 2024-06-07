@@ -1,0 +1,22 @@
+---
+layout: default
+title:  "2024 Sulphur Springs Trail Race 100M"
+description: 用脚步丈量世界
+date:   2024-05-25
+categories: race
+---
+[back](/)
+
+比赛时间：2024-05-25
+
+比赛地点：加拿大/汉密尔顿
+
+比赛名称：2024 Sulphur Springs Trail Race 100M
+
+完赛成绩：23:22:12
+
+完赛证书：![Octocat](/images/2024SSTR/2024SSTR.png)
+
+精彩瞬间：![Octocat](/images/2024SSTR/2024SSTR-1.jpeg) ![Octocat](/images/2024SSTR/2024SSTR-2.jpeg) ![Octocat](/images/2024SSTR/2024SSTR-3.jpeg) ![Octocat](/images/2024SSTR/2024SSTR-4.jpeg) ![Octocat](/images/2024SSTR/2024SSTR-5.jpeg)
+
+[back](/)

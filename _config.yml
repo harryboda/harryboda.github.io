@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 乐天
+title: 乐天-用脚步丈量世界
 email: i@xyg.name
 description: >- # this means to ignore newlines until "baseurl:"
-  随手小记无聊至极关注谨慎.
+  全是跑步无聊至极 关注需谨慎.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xi0ng8
@@ -55,3 +55,13 @@ remote_theme: pages-themes/cayman@v0.2.0
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  marathon:
+    output: true
+  gebi:
+    output: true
+  trail:
+    output: true
+  play:
+    output: true

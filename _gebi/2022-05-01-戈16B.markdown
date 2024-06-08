@@ -1,0 +1,26 @@
+---
+layout: default
+title:  "戈16B"
+description: 用脚步丈量世界
+date:   2022-05-01
+categories: gebi
+---
+[back](/gebi)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：戈壁/甘肃/中国
+
+比赛名称：{{ page.title }}
+
+完赛成绩：09:17:09
+(戈16B 亚军)
+
+完赛证书：
+![Octocat](/images/gebi/16B.png)
+
+精彩瞬间：
+![Octocat](/images/gebi/16B-1.jpeg) 
+![Octocat](/images/gebi/16B-2.jpeg) 
+
+[back](/gebi)

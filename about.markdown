@@ -9,3 +9,5 @@ permalink: /about/
 就是在喝酒
 
 或者在跑步去喝酒的路上
+
+微信：cnxi0ng

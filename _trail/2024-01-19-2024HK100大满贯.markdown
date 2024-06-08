@@ -1,0 +1,40 @@
+---
+layout: default
+title:  "2024 HK100大满贯"
+name: "2024HK100"
+description: 用脚步丈量世界
+date:   2024-01-19
+place: 香港/中国
+bib: "8038"
+time: "31:29:19"
+memo: 港百大满贯大金碗&港百小银人
+categories: trail
+permalink: /trail/2024HK00.html
+max_iterations: 8
+---
+[back](/trail)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：{{ page.place }}
+
+比赛名称：{{ page.title }}
+
+参赛号码：{{ page.bib}}
+
+完赛成绩：{{ page.time }}
+
+备注：{{ page.memo }}
+
+完赛证书：
+![Octocat](/images/{{ page.name }}/{{ page.name }}.png)
+
+精彩瞬间：
+<ul>
+{% assign max = page.max_iterations | plus: 0 %}
+{% for i in (1..max) %}
+    <li><img src="/images/{{ page.name }}/{{ page.name }}-{{ i }}.jpeg"></li>
+{% endfor %}
+</ul>
+
+[back](/trail)

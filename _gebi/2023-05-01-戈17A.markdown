@@ -1,0 +1,26 @@
+---
+layout: default
+title:  "戈17A"
+description: 用脚步丈量世界
+date:   2023-05-01
+categories: gebi
+---
+[back](/gebi)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：戈壁/甘肃/中国
+
+比赛名称：{{ page.title }}
+
+完赛成绩：08:34:56
+(戈17B总成绩第6，个人32，竞赛日第二天第三天两个单日冠军)
+
+完赛证书：
+![Octocat](/images/gebi/17A.png)
+
+精彩瞬间：
+![Octocat](/images/gebi/17-1.jpeg) 
+![Octocat](/images/gebi/17-2.jpeg) 
+
+[back](/gebi)

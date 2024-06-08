@@ -1,0 +1,37 @@
+---
+layout: default
+title:  "2016北京马拉松"
+name: "2016北京马拉松"
+description: 用脚步丈量世界
+date:   2016-09-17
+place: 北京/中国
+time: "05:05:57"
+memo: 人生第一场全马
+categories: marathon
+permalink: /marathon/2016北京马拉松.html
+max_iterations: 8
+---
+[back](/marathon)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：{{ page.place }}
+
+比赛名称：{{ page.title }}
+
+完赛成绩：{{ page.time }}
+
+备注：{{ page.memo }}
+
+完赛证书：
+![Octocat](/images/{{ page.name }}/{{ page.name }}.png)
+
+精彩瞬间：
+<ul>
+{% assign max = page.max_iterations | plus: 0 %}
+{% for i in (1..max) %}
+    <li><img src="/images/{{ page.name }}/{{ page.name }}-{{ i }}.jpeg"></li>
+{% endfor %}
+</ul>
+
+[back](/marathon)

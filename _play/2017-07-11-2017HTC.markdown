@@ -1,0 +1,40 @@
+---
+layout: default
+title:  "2017HTC中国首站"
+name: "2017HTC"
+description: 用脚步丈量世界
+date:   2017-07-11
+place: 张家口/中国
+bib: "B016"
+time: "17:13:17"
+memo: 175.8KM,HTC引入中国首站比赛，宝马爱心车主2队，队长乐天，队员旺姆姐姐，刘洋，畅游，小许
+categories: play
+permalink: /play/2017HTC.html
+max_iterations: 8
+---
+[back](/play)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：{{ page.place }}
+
+比赛名称：{{ page.title }}
+
+参赛号码：{{ page.bib}}
+
+完赛成绩：{{ page.time }}
+
+备注：{{ page.memo }}
+
+完赛证书：
+![Octocat](/images/{{ page.name }}/{{ page.name }}.png)
+
+精彩瞬间：
+<ul>
+{% assign max = page.max_iterations | plus: 0 %}
+{% for i in (1..max) %}
+    <li><img src="/images/{{ page.name }}/{{ page.name }}-{{ i }}.jpeg"></li>
+{% endfor %}
+</ul>
+
+[back](/play)

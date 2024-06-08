@@ -1,0 +1,40 @@
+---
+layout: default
+title:  "2019HTC中国第三届"
+name: "2019HTC张家口"
+description: 用脚步丈量世界
+date:   2019-07-06
+place: 张家口/中国
+bib: "018"
+time: "18:49:12"
+memo: 185KM，说一不二队再出发
+categories: play
+permalink: /play/2019HTC张家口.html
+max_iterations: 8
+---
+[back](/play)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：{{ page.place }}
+
+比赛名称：{{ page.title }}
+
+参赛号码：{{ page.bib}}
+
+完赛成绩：{{ page.time }}
+
+备注：{{ page.memo }}
+
+完赛证书：
+![Octocat](/images/{{ page.name }}/{{ page.name }}.png)
+
+精彩瞬间：
+<ul>
+{% assign max = page.max_iterations | plus: 0 %}
+{% for i in (1..max) %}
+    <li><img src="/images/{{ page.name }}/{{ page.name }}-{{ i }}.jpeg"></li>
+{% endfor %}
+</ul>
+
+[back](/play)

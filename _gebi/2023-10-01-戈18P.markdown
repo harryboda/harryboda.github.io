@@ -1,0 +1,26 @@
+---
+layout: default
+title:  "戈18P"
+description: 用脚步丈量世界
+date:   2023-10-01
+categories: gebi
+---
+[back](/gebi)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：戈壁/甘肃/中国
+
+比赛名称：{{ page.title }}
+
+完赛成绩：08:34:56
+(竞赛部&品牌队)
+
+完赛证书：
+![Octocat](/images/gebi/17A.png)
+
+精彩瞬间：
+![Octocat](/images/gebi/17-1.jpeg) 
+![Octocat](/images/gebi/17-2.jpeg) 
+
+[back](/gebi)

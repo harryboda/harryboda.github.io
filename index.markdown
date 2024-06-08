@@ -31,3 +31,15 @@ layout: default
         <li>777</li>
     </ul>
   </main>
+
+
+<h3>百马王子进度</h3>
+
+{% assign total_marathons = 100 %}
+{% assign completed_marathons = 78 %}
+{% assign progress_percentage = completed_marathons | times: 100 | divided_by: total_marathons %}
+
+<div class="progress-bar-container" style="width: 100%; background-color: #f3f3f3; border-radius: 5px; overflow: hidden;">
+  <div class="progress-bar" style="width: {{ progress_percentage }}%; height: 30px; background-color: #4caf50;"></div>
+</div>
+<p>{{ completed_marathons }} / {{ total_marathons }} 场马拉松已完成</p>

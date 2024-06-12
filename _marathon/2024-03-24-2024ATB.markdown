@@ -5,8 +5,9 @@ name: "2024ATB"
 description: 用脚步丈量世界
 date:   2024-03-24
 place: Hamilton/Canada
-time: "02:23:42"
-memo: 30K跑进 2小时拿下小金人，证书是加上30K之后放松慢跑5K的总时间
+bib: 486
+time: "01:58:46"
+memo: 北美最古老的路跑赛事，比波士顿马拉松还早3年，30K跑进2小时是小金人，01:58:46第46位冲线，证书是加上30K之后放松慢跑5K的总时间02:23:43
 categories: marathon
 max_iterations: 8
 ---
@@ -17,6 +18,8 @@ max_iterations: 8
 比赛地点：{{ page.place }}
 
 比赛名称：{{ page.title }}
+
+参赛号码: {{ page.bib }}
 
 完赛成绩：{{ page.time }}
 

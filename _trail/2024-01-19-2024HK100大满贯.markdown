@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "2024 HK100大满贯"
+title:  "2024 HK100大满贯HK100"
 name: "2024HK100"
 description: 用脚步丈量世界
-date:   2024-01-19
+date:   2024-01-20
 place: 香港/中国
 bib: "8038"
-time: "31:29:19"
-memo: 港百大满贯大金碗&港百小银人
+time: "18:52:29"
+memo: 港百大满贯Day3,拿下大金碗&港百小银人，遗憾没能同时拿下小金人，第17位，总成绩31:29:19，第18位
 categories: trail
 permalink: /trail/2024HK00.html
 max_iterations: 8

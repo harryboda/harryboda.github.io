@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "2019HTC美国站人车接力赛320KM"
-name: "2019HTC"
+title:  "2024 Around The Bay 30K(金牌争夺战)"
+name: "2024ATB"
 description: 用脚步丈量世界
-date:   2019-08-24
-place: Portland/USA
-bib: "1252"
-time: "28:00:18"
-memo: 320KM,从胡德雪山到太平洋海滩，地表最长距离接力赛
+date:   2024-03-24
+place: Hamilton/Canada
+bib: 486
+time: "01:58:46"
+memo: 北美最古老的路跑赛事，比波士顿马拉松还早3年，30K跑进2小时是金牌，01:58:46第46位冲线成功拿下金牌，证书是加上30K之后放松慢跑5K的总时间02:23:43
 categories: play
-permalink: /play/2019HTC.html
+permalink: /play/2024ATB.html
 max_iterations: 8
 ---
 [back](/play)
@@ -20,7 +20,7 @@ max_iterations: 8
 
 比赛名称：{{ page.title }}
 
-参赛号码：{{ page.bib}}
+参赛号码: {{ page.bib }}
 
 完赛成绩：{{ page.time }}
 

@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "2019HTC美国站人车接力赛320KM"
-name: "2019HTC"
+title:  "2020HTC海南人车接力赛"
+name: "2020HTC海南"
 description: 用脚步丈量世界
-date:   2019-08-24
-place: Portland/USA
-bib: "1252"
-time: "28:00:18"
-memo: 320KM,从胡德雪山到太平洋海滩，地表最长距离接力赛
+date:   2020-12-12
+place: 三亚/中国
+bib: "304"
+time: "17:03:16"
+memo: 海南分站开启
 categories: play
-permalink: /play/2019HTC.html
+permalink: /play/2020HTC海南.html
 max_iterations: 8
 ---
 [back](/play)

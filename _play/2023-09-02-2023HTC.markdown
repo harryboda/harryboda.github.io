@@ -1,17 +1,18 @@
 ---
 layout: default
-title:  "2024 Around The Bay 30K"
-name: "2024ATB"
+title:  "2023HTC张家口人车接力赛"
+name: "2023HTC张家口"
 description: 用脚步丈量世界
-date:   2024-03-24
-place: Hamilton/Canada
-bib: 486
-time: "01:58:46"
-memo: 北美最古老的路跑赛事，比波士顿马拉松还早3年，30K跑进2小时是小金人，01:58:46第46位冲线，证书是加上30K之后放松慢跑5K的总时间02:23:43
-categories: marathon
+date:   2023-09-02
+place: 崇礼/中国
+bib: "685"
+time: "07:21:26"
+memo: 极速拼命的一站，被暴雨熔断了。。。
+categories: play
+permalink: /play/2023HTC张家口.html
 max_iterations: 8
 ---
-[back](/marathon)
+[back](/play)
 
 比赛时间：{{ page.date | date: "%Y-%m-%d" }}
 
@@ -19,7 +20,7 @@ max_iterations: 8
 
 比赛名称：{{ page.title }}
 
-参赛号码: {{ page.bib }}
+参赛号码：{{ page.bib}}
 
 完赛成绩：{{ page.time }}
 
@@ -36,4 +37,4 @@ max_iterations: 8
 {% endfor %}
 </ul>
 
-[back](/marathon)
+[back](/play)

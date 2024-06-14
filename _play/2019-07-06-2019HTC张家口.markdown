@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "2019HTC中国第三届"
+title:  "2019HTC中国第三届人车接力赛"
 name: "2019HTC张家口"
 description: 用脚步丈量世界
 date:   2019-07-06

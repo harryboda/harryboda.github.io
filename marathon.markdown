@@ -5,7 +5,8 @@
 layout: default
 ---
   <main>
-    <h3>向百马王子进军</h3>
+      {% assign total_posts = site.marathon | size %}
+    <h3>向百马王子进军({{ total_posts }})</h3>
     <ul>
       {% assign sorted_posts = site.marathon | sort: 'date' | reverse %}
       {% for post in sorted_posts %}

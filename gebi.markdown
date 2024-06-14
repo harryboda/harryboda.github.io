@@ -6,7 +6,8 @@ layout: default
 permalink: /gebi/
 ---
   <main>
-    <h3>永远有一颗冠军的❤️</h3>
+      {% assign total_posts = site.gebi | size %}
+    <h3>永远有一颗冠军的❤️({{ total_posts }})</h3>
     <ul>
       {% assign sorted_posts = site.gebi | sort: 'date' | reverse %}
       {% for post in sorted_posts %}

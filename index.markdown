@@ -36,7 +36,14 @@ layout: default
 <h3>百马王子进度</h3>
 
 {% assign total_marathons = 100 %}
-{% assign completed_marathons = 78 %}
+{% assign total_marathon = site.marathon | size %}
+{% assign total_trail = site.trail | size %}
+{% assign total_gebi = site.gebi | size %}
+{% assign total_play = site.play | size %}
+{% assign completed_marathons_temp = total_marathon | plus: total_trail %}
+{% assign completed_marathons_temp2 = completed_marathons_temp | plus: total_gebi %}
+{% assign completed_marathons = completed_marathons_temp2 | plus: total_play %}
+
 {% assign progress_percentage = completed_marathons | times: 100 | divided_by: total_marathons %}
 
 <div class="progress-bar-container" style="width: 100%; background-color: #f3f3f3; border-radius: 5px; overflow: hidden;">

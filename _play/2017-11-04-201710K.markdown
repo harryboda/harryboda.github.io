@@ -1,16 +1,16 @@
 ---
 layout: default
-title:  "2019HTC美国站人车接力赛320KM"
-name: "2019HTC"
+title:  "2017欢乐跑10K联赛"
+name: "201710K"
 description: 用脚步丈量世界
-date:   2019-08-24
-place: Portland/USA
-bib: "1252"
-time: "28:00:18"
-memo: 320KM,从胡德雪山到太平洋海滩，地表最长距离接力赛
+date:   2017-11-04
+place: 北京/中国
+bib: "A21301"
+time: "00:46:50"
+memo: 10K联赛，跑出了10KPB，同时拿下了欢乐颂戒指
 categories: play
-permalink: /play/2019HTC.html
-max_iterations: 8
+permalink: /play/201710K.html
+max_iterations: 1
 ---
 [back](/play)
 

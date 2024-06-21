@@ -1,16 +1,16 @@
 ---
 layout: default
-title:  "2015上海马拉松(首半马)"
-name: "2015上海马拉松"
+title:  "2024 Boston Marathon(大满贯最后一站)"
+name: "2024Boston"
 description: 用脚步丈量世界
-date:   2015-11-08
-place: 上海/上海/中国
-bib: 44417
-time: "02:25:16"
-memo: 人生第一场半马
+date:   2024-04-15
+place: Boston/USA
+bib: 5497
+time: "02:56:52"
+memo: 大满贯最后一站，六星奖牌到手
 categories: marathon
-permalink: /marathon/2015上海马拉松.html
-max_iterations: 8
+permalink: /marathon/2024Boston.html
+max_iterations: 1
 ---
 [back](/marathon)
 

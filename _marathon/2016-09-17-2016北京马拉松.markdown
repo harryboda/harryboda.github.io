@@ -1,10 +1,11 @@
 ---
 layout: default
-title:  "2016北京马拉松"
+title:  "2016北京马拉松（首马）"
 name: "2016北京马拉松"
 description: 用脚步丈量世界
 date:   2016-09-17
-place: 北京/中国
+place: 北京/北京/中国
+bib: UNKNOWN
 time: "05:05:57"
 memo: 人生第一场全马
 categories: marathon

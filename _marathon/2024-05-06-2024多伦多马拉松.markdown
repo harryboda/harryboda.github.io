@@ -1,16 +1,15 @@
 ---
 layout: default
-title:  "2015上海马拉松(首半马)"
-name: "2015上海马拉松"
+title:  "2024多伦多马拉松(半马，陪跑熊大)"
+name: "2024多伦多马拉松"
 description: 用脚步丈量世界
-date:   2015-11-08
-place: 上海/上海/中国
-bib: 44417
-time: "02:25:16"
-memo: 人生第一场半马
+date:   2024-05-06
+place: Toronto/Canada
+bib: 12338
+time: "01:49:52"
+memo: 熊大12337，PB了，成功sub150
 categories: marathon
-permalink: /marathon/2015上海马拉松.html
-max_iterations: 8
+max_iterations: 1
 ---
 [back](/marathon)
 

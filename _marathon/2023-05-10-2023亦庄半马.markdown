@@ -1,16 +1,16 @@
 ---
 layout: default
-title:  "2015上海马拉松(首半马)"
-name: "2015上海马拉松"
+title:  "2023北京亦庄马拉松(半马)"
+name: "2023北京亦庄马拉松"
 description: 用脚步丈量世界
-date:   2015-11-08
-place: 上海/上海/中国
-bib: 44417
-time: "02:25:16"
-memo: 人生第一场半马
+date:   2023-05-10
+place: 北京亦庄/北京/中国
+bib: UNKNOWN
+time: "01:24:49"
+memo: 时隔两年，戈17结束第一次参加比赛
 categories: marathon
-permalink: /marathon/2015上海马拉松.html
-max_iterations: 8
+permalink: /marathon/2023北京马拉松.html
+max_iterations: 1
 ---
 [back](/marathon)
 

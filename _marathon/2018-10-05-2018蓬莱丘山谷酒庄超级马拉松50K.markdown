@@ -1,16 +1,15 @@
 ---
 layout: default
-title:  "2015上海马拉松(首半马)"
-name: "2015上海马拉松"
+title:  "2018蓬莱丘山谷酒庄超级马拉松50K(拿奖金)"
+name: "2018蓬莱丘山谷酒庄超级马拉松50K"
 description: 用脚步丈量世界
-date:   2015-11-08
-place: 上海/上海/中国
-bib: 44417
-time: "02:25:16"
-memo: 人生第一场半马
+date:   2018-10-05
+place: 蓬莱/山东/中国
+bib: UNKNOWN
+time: "04:53:56"
+memo: 喝醉的超马
 categories: marathon
-permalink: /marathon/2015上海马拉松.html
-max_iterations: 8
+max_iterations: 1
 ---
 [back](/marathon)
 

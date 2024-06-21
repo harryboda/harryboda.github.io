@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "2015上海马拉松(首半马)"
-name: "2015上海马拉松"
+title:  "2017张家港马拉松(半马陪跑)"
+name: "2017张家港马拉松"
 description: 用脚步丈量世界
-date:   2015-11-08
-place: 上海/上海/中国
-bib: 44417
-time: "02:25:16"
-memo: 人生第一场半马
+date:   2017-12-03
+place: 张家港/江苏/中国
+bib: 陪跑TODO
+time: "03:00:00"
+memo: 收尾兔，陪跑
 categories: marathon
-permalink: /marathon/2015上海马拉松.html
+permalink: /marathon/2017张家港马拉松.html
 max_iterations: 8
 ---
 [back](/marathon)

@@ -1,24 +1,26 @@
 ---
 layout: default
-title:  "2015上海马拉松(首半马)"
-name: "2015上海马拉松"
+title:  "2024 Summer Solstice"
+name: "2024SummerSolstice"
 description: 用脚步丈量世界
-date:   2015-11-08
-place: 上海/上海/中国
-bib: 44417
-time: "02:25:16"
-memo: 人生第一场半马
-categories: marathon
-permalink: /marathon/2015上海马拉松.html
+date:   2024-06-19
+place: Toronto/Canada
+bib: "280"
+time: "00:25:22"
+memo: 单圈最快25:22，气温过高3圈之后不让继续跑，17K完赛01:31
+categories: trail
+permalink: /trail/2024SS.html
 max_iterations: 8
 ---
-[back](/marathon)
+[back](/trail)
 
 比赛时间：{{ page.date | date: "%Y-%m-%d" }}
 
 比赛地点：{{ page.place }}
 
 比赛名称：{{ page.title }}
+
+参赛号码：{{ page.bib}}
 
 完赛成绩：{{ page.time }}
 
@@ -35,4 +37,4 @@ max_iterations: 8
 {% endfor %}
 </ul>
 
-[back](/marathon)
+[back](/trail)

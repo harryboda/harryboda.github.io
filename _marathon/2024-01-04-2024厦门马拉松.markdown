@@ -1,16 +1,15 @@
 ---
 layout: default
-title:  "2015上海马拉松(首半马)"
-name: "2015上海马拉松"
+title:  "2024厦门马拉松（商学院男子团体亚军）"
+name: "2024厦门马拉松"
 description: 用脚步丈量世界
-date:   2015-11-08
-place: 上海/上海/中国
-bib: 44417
-time: "02:25:16"
-memo: 人生第一场半马
+date:   2024-01-04
+place: 厦门/福建/中国
+bib: B02575
+time: "02:58:25"
+memo: 商学院男子组团体亚军
 categories: marathon
-permalink: /marathon/2015上海马拉松.html
-max_iterations: 8
+max_iterations: 1
 ---
 [back](/marathon)
 

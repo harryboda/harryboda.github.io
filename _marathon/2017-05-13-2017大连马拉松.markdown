@@ -1,16 +1,16 @@
 ---
 layout: default
-title:  "2015上海马拉松(首半马)"
-name: "2015上海马拉松"
+title:  "2017大连马拉松(PB)"
+name: "2017大连马拉松"
 description: 用脚步丈量世界
-date:   2015-11-08
-place: 上海/上海/中国
-bib: 44417
-time: "02:25:16"
-memo: 人生第一场半马
+date:   2017-05-13
+place: 大连/辽宁/中国
+bib: UNKNOWN
+time: "04:01:58"
+memo: 又PB了，但是还是没能破4
 categories: marathon
-permalink: /marathon/2015上海马拉松.html
-max_iterations: 8
+permalink: /marathon/2017大连马拉松.html
+max_iterations: 1
 ---
 [back](/marathon)
 

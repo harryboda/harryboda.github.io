@@ -1,0 +1,26 @@
+---
+layout: default
+title:  "戈19A+"
+description: 用脚步丈量世界
+date:   2024-10-03
+categories: gebi
+---
+[back](/gebi)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：戈壁/甘肃/中国
+
+比赛名称：{{ page.title }}
+
+完赛成绩：13:17:28
+(戈19A+大师组冠军，全场冠军，新赛道赛道纪录)
+
+完赛证书：
+![Octocat](/images/gebi/17A.png)
+
+精彩瞬间：
+![Octocat](/images/gebi/17-1.jpeg) 
+![Octocat](/images/gebi/17-2.jpeg) 
+
+[back](/gebi)

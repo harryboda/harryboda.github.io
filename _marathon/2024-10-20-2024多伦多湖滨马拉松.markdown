@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "2024新疆克拉玛依马拉松(商学院赛中赛个人冠军，团体冠军)"
-name: "2024新疆克拉玛依马拉松"
+title:  "2024多伦多湖滨马拉松"
+name: "2024多伦多湖滨马拉松"
 description: 用脚步丈量世界
-date:   2024-09-16
-place: 新疆/克拉玛依/中国
-bib: A1191
-time: "02:59:29"
-memo: 商学院赛中赛个人冠军，团体冠军
+date:   2024-10-20
+place: Toronto/Canada
+bib: 8186
+time: "02:52:25"
+memo: 2024多伦多湖滨马拉松，第二次跑了，这次是自己跑全马
 categories: marathon
 max_iterations: 1
 ---

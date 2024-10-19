@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "2024芝加哥马拉松"
+title:  "2024芝加哥马拉松（兔子）"
 name: "2024芝加哥马拉松"
 description: 用脚步丈量世界
 date:   2024-10-13
 place: Chicago/USA
 bib: B4367
-time: "03:11:16"
+time: "03:57:13"
 memo: 大满贯第二轮第一站
 categories: marathon
 max_iterations: 1

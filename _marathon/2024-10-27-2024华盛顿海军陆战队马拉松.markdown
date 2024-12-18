@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "2024多伦多湖滨马拉松"
-name: "2024多伦多湖滨马拉松"
+title:  "2024华盛顿海军陆战队马拉松"
+name: "2024华盛顿海军陆战队马拉松"
 description: 用脚步丈量世界
-date:   2024-10-20
-place: Toronto/Canada
-bib: 8186
-time: "02:53:13"
-memo: 2024多伦多湖滨马拉松，第二次跑了，这次是自己跑全马,未能PB，历史第三好成绩，35-40没跑好掉速了，但是这次没有抽筋的感觉
+date:   2024-10-27
+place: Washington/USA
+bib: 12312
+time: "03:00:25"
+memo: 2024华盛顿海军陆战队马拉松,去年跑的50K超马，今年体验一下全马，主要是全马奖牌好看，前半程拍视频太浪，最后冲线爬坡居然就是差了25秒没破三。。。
 categories: marathon
 max_iterations: 1
 ---

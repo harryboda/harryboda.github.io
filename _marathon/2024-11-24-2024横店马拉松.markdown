@@ -1,15 +1,16 @@
 ---
 layout: default
-title:  "2024多伦多湖滨马拉松"
-name: "2024多伦多湖滨马拉松"
+title:  "2024横店马拉松（400官方兔子）"
+name: "2024横店马拉松"
 description: 用脚步丈量世界
-date:   2024-10-20
-place: Toronto/Canada
-bib: 8186
-time: "02:53:13"
-memo: 2024多伦多湖滨马拉松，第二次跑了，这次是自己跑全马,未能PB，历史第三好成绩，35-40没跑好掉速了，但是这次没有抽筋的感觉
+date:   2024-11-24
+place: 上海/上海/中国
+bib: D
+time: "03:59:20"
+memo: 400官兔
 categories: marathon
-max_iterations: 1
+permalink: /marathon/2024横店马拉松.html
+max_iterations: 8
 ---
 [back](/marathon)
 

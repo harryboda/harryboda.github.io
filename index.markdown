@@ -26,6 +26,7 @@ layout: default
         <li>UTMB/UTMB</li>
         <li>FUJI 168</li>
         <li>WSER/100M</li>
+        <li>TDG/TORX 330</li>
         <li>八百流沙</li>
         <li>环青海湖七天七马</li>
         <li>南极马拉松</li>
@@ -39,18 +40,20 @@ layout: default
         <li>777</li>
         <li>------省会-------</li>
         <li>拉萨马拉松</li>
-        <li>乌鲁木齐马拉松</li>
-        <li>长沙马拉松</li>
+        <li>台北马拉松</li>
+        <li><strike>长沙马拉松</strike></li>
         <li>西安马拉松</li>
-        <li>吉林马拉松</li>
+        <li>昆明马拉松</li>
+        <li>长春马拉松</li>
         <li>石家庄马拉松</li>
         <li>南昌马拉松</li>
-        <li>桂林马拉松</li>
-        <li>昆明马拉松</li>
+        <li>南宁马拉松</li>
         <li>呼和浩特马拉松</li>
-        <li>台北马拉松</li>
+        <li>西宁马拉松</li>
+        <li>天津马拉松</li>
         <li>------备选-------</li>
         <li>深圳马拉松</li>
+        <li>乌鲁木齐马拉松</li>
         <li>成都马拉松</li>
         <li>郑开马拉松</li>
         <li>沈阳马拉松</li>
@@ -58,9 +61,7 @@ layout: default
         <li>贵阳马拉松</li>
         <li>衡水湖马拉松</li>
         <li>香港马拉松</li>
-        <li>吉木萨尔马拉松</li>
         <li>-------------</li>
-        <li>泰国马拉松</li>
     </ul>
   </main>
 

@@ -1,24 +1,26 @@
 ---
 layout: default
-title:  "2024长沙红色半程马拉松（半马，PB）"
-name: "2024长沙红色半程马拉松"
+title:  "2024 Shenzhen 100越野TORX组100K(TORX中国首站陪跑陈鸣)"
+name: "2024TORX100"
 description: 用脚步丈量世界
-date:   2024-12-26
-place: 长沙/湖南/中国
-bib: A0011
-time: "01:23:33"
-memo: 毛主席生日特色半马，全球唯一周四举行，橘子洲头
-categories: marathon
-permalink: /marathon/2024Changsha.html
+date:   2024-12-28
+place: 深圳/广东/中国
+bib: "T1065"
+time: "27:32:21"
+memo: TORX中国首站，陪跑陈鸣
+categories: trail
+permalink: /trail/2024TORX100.html
 max_iterations: 1
 ---
-[back](/marathon)
+[back](/trail)
 
 比赛时间：{{ page.date | date: "%Y-%m-%d" }}
 
 比赛地点：{{ page.place }}
 
 比赛名称：{{ page.title }}
+
+参赛号码：{{ page.bib}}
 
 完赛成绩：{{ page.time }}
 
@@ -35,4 +37,4 @@ max_iterations: 1
 {% endfor %}
 </ul>
 
-[back](/marathon)
+[back](/trail)

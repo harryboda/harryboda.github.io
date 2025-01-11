@@ -4,6 +4,17 @@
 
 layout: default
 ---
+{% assign total_marathons = 100 %}
+{% assign total_marathon = site.marathon | size %}
+{% assign total_trail = site.trail | size %}
+{% assign total_gebi = site.gebi | size %}
+{% assign total_play = site.play | size %}
+{% assign completed_marathons_temp = total_marathon | plus: total_trail %}
+{% assign completed_marathons_temp2 = completed_marathons_temp | plus: total_gebi %}
+{% assign completed_marathons = completed_marathons_temp2 | plus: total_play %}
+
+{% assign progress_percentage = completed_marathons | times: 100 | divided_by: total_marathons %}
+
   <main>
     <h3>用脚步丈量世界</h3>
     <ul>
@@ -19,6 +30,13 @@ layout: default
         <li>2024/08/10完成2024巴黎奥运会马拉松大众组，实现奥运梦想，03:11:16，成为<span style="color:red;">奥运跑者</span></li>
         <li>2024/10/03完成戈19A+，实现冠军梦想，拿下大师组冠军和全场冠军，13:17:28创造新赛道赛道纪录，完成<span style="color:red;">戈壁B，A，A+大满贯</span></li>
     </ul>
+
+<h3>百马进度</h3>
+
+<div class="progress-bar-container" style="width: 100%; background-color: #f3f3f3; border-radius: 5px; overflow: hidden;">
+  <div class="progress-bar" style="width: {{ progress_percentage }}%; height: 30px; background-color: #4caf50;"></div>
+</div>
+<p>{{ completed_marathons }} / {{ total_marathons }} 场马拉松已完成</p>
 
     <h3>TODO</h3>
     <ul>
@@ -64,22 +82,3 @@ layout: default
         <li>-------------</li>
     </ul>
   </main>
-
-
-<h3>百马王子进度</h3>
-
-{% assign total_marathons = 100 %}
-{% assign total_marathon = site.marathon | size %}
-{% assign total_trail = site.trail | size %}
-{% assign total_gebi = site.gebi | size %}
-{% assign total_play = site.play | size %}
-{% assign completed_marathons_temp = total_marathon | plus: total_trail %}
-{% assign completed_marathons_temp2 = completed_marathons_temp | plus: total_gebi %}
-{% assign completed_marathons = completed_marathons_temp2 | plus: total_play %}
-
-{% assign progress_percentage = completed_marathons | times: 100 | divided_by: total_marathons %}
-
-<div class="progress-bar-container" style="width: 100%; background-color: #f3f3f3; border-radius: 5px; overflow: hidden;">
-  <div class="progress-bar" style="width: {{ progress_percentage }}%; height: 30px; background-color: #4caf50;"></div>
-</div>
-<p>{{ completed_marathons }} / {{ total_marathons }} 场马拉松已完成</p>

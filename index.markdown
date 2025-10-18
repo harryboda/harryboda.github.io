@@ -29,6 +29,7 @@ layout: default
         <li>2024/04/15完成六大满贯最后一站，2024波士顿马拉松，02:56:53，成为<span style="color:red;">全球六大满贯跑者</span>，拿到六星奖牌</li>
         <li>2024/08/10完成2024巴黎奥运会马拉松大众组，实现奥运梦想，03:11:16，成为<span style="color:red;">奥运跑者</span></li>
         <li>2024/10/03完成戈19A+，实现冠军梦想，拿下大师组冠军和全场冠军，13:17:28创造新赛道赛道纪录，完成<span style="color:red;">戈壁B，A，A+大满贯</span></li>
+        <li>2025/09/20完成<span style="color:red;">巨人之旅TOR330</span>，成为巨人胖达，圆梦世界长距离越野终极梦想</li>
     </ul>
 
 <h3>百马进度</h3>
@@ -44,7 +45,7 @@ layout: default
         <li>UTMB/UTMB</li>
         <li>FUJI 168</li>
         <li>WSER/100M</li>
-        <li>TDG/TORX 330</li>
+        <li><strike>巨人之旅TOR330</strike></li>
         <li>八百流沙</li>
         <li>环青海湖七天七马</li>
         <li>南极马拉松</li>

@@ -6,7 +6,7 @@ layout: default
 ---
   <main>
       {% assign total_posts = site.trail | size %}
-    <h3>马拉松的尽头是越野({{ total_posts }})</h3>
+    <h3>马拉松的尽头是越野({{ total_posts }}[短距离16])</h3>
     <ul>
       {% assign sorted_posts = site.trail | sort: 'date' | reverse %}
       {% for post in sorted_posts %}

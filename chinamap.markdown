@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 比赛地图
+title: 比赛地图（中国）
 permalink: /chinamap/
 ---
 
-<h1>比赛地图</h1>
+<h1>比赛地图（中国）</h1>
 <div id="map" style="height: 600px;"></div>
 <!-- Include Leaflet.js CSS and JS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -60,7 +60,7 @@ permalink: /chinamap/
   var competitions = [
     {% for competition in site.marathon %}
     {
-      "name": "{{ competition.name }}",
+      "name": "{{ competition.title }}",
       "place": "{{ competition.place }}",
       "date": "{{ competition.date }}"
     }{% if forloop.last == false %},{% endif %}

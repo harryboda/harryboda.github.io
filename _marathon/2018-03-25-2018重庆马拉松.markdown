@@ -4,7 +4,7 @@ title:  "2018重庆马拉松"
 name: "2018重庆马拉松"
 description: 用脚步丈量世界
 date:   2018-03-25
-place: 广州/中国
+place: 重庆/重庆/中国
 bib: UNKNOWN
 time: "03:53:56"
 memo: 大PB，终于破4了

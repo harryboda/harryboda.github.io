@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "2018成都双遗马拉松(第三次陪跑视障跑者)"
-name: "2018成都双遗马拉松"
+title:  "2025 Georgina Marathon（300官方兔子）"
+name: "2025GeorginaMarathon"
 description: 用脚步丈量世界
-date:   2018-03-18
-place: 都江堰/四川/中国
-bib: UNKNOWN
-time: "03:53:56"
-memo: 大PB，终于破4了
+date:   2025-09-07
+place: Georgina/Canada
+bib: 506
+time: "02:59:30"
+memo: 首次300兔子，完美完成
 categories: marathon
 max_iterations: 1
 ---

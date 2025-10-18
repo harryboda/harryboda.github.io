@@ -1,14 +1,15 @@
 ---
 layout: default
-title:  "2018成都双遗马拉松(第三次陪跑视障跑者)"
-name: "2018成都双遗马拉松"
+title:  "2025 Boston Marathon(三刷)"
+name: "2025Boston"
 description: 用脚步丈量世界
-date:   2018-03-18
-place: 都江堰/四川/中国
-bib: UNKNOWN
-time: "03:53:56"
-memo: 大PB，终于破4了
+date:   2025-04-22
+place: Boston/USA
+bib: 3749
+time: "02:58:33"
+memo: 三刷波士顿
 categories: marathon
+permalink: /marathon/2025Boston.html
 max_iterations: 1
 ---
 [back](/marathon)

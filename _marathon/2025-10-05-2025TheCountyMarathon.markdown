@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "2018成都双遗马拉松(第三次陪跑视障跑者)"
-name: "2018成都双遗马拉松"
+title:  "2025 The County Marathon乡村马拉松（345官方兔子）"
+name: "2025TheCountyMarathon"
 description: 用脚步丈量世界
-date:   2018-03-18
-place: 都江堰/四川/中国
-bib: UNKNOWN
-time: "03:53:56"
-memo: 大PB，终于破4了
+date:   2025-10-05
+place: Prince Edward/Canada
+bib: 193
+time: "03:44:30"
+memo: 乡村马拉松，啤酒不错，全场最快的兔子居然最后差点抽筋
 categories: marathon
 max_iterations: 1
 ---

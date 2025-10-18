@@ -1,23 +1,26 @@
 ---
 layout: default
-title:  "2018成都双遗马拉松(第三次陪跑视障跑者)"
-name: "2018成都双遗马拉松"
+title:  "2025黄龙极限耐力赛15K"
+name: "2025Huanglong15K"
 description: 用脚步丈量世界
-date:   2018-03-18
-place: 都江堰/四川/中国
-bib: UNKNOWN
-time: "03:53:56"
-memo: 大PB，终于破4了
-categories: marathon
+date:   2025-07-05
+place: 黄龙/四川/中国
+bib: ""
+time: ""
+memo: 
+categories: trail
+permalink: /trail/2025Huanglong15K.html
 max_iterations: 1
 ---
-[back](/marathon)
+[back](/trail)
 
 比赛时间：{{ page.date | date: "%Y-%m-%d" }}
 
 比赛地点：{{ page.place }}
 
 比赛名称：{{ page.title }}
+
+参赛号码：{{ page.bib}}
 
 完赛成绩：{{ page.time }}
 
@@ -34,4 +37,4 @@ max_iterations: 1
 {% endfor %}
 </ul>
 
-[back](/marathon)
+[back](/trail)

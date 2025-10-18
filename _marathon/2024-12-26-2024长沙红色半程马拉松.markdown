@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "2024偃师马拉松（半马，选拔赛兔子）"
-name: "2024偃师马拉松(半马，选拔赛兔子)"
+title:  "2024长沙红色半程马拉松（半马，PB）"
+name: "2024长沙红色半程马拉松"
 description: 用脚步丈量世界
-date:   2024-03-02
-place: 洛阳偃师/河南/中国
-bib: UNKNOWN
-time: "01:25:18"
-memo: 戈19选拔第二天
+date:   2024-12-26
+place: 长沙/湖南/中国
+bib: A0011
+time: "01:23:33"
+memo: 毛主席生日特色半马，全球唯一周四举行，橘子洲头
 categories: marathon
-permalink: /marathon/2024Yanshi.html
+permalink: /marathon/2024Changsha.html
 max_iterations: 1
 ---
 [back](/marathon)

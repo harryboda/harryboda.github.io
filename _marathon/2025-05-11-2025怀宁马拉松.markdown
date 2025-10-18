@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "2018成都双遗马拉松(第三次陪跑视障跑者)"
-name: "2018成都双遗马拉松"
+title:  "2025怀宁马拉松"
+name: "2025Huaining"
 description: 用脚步丈量世界
-date:   2018-03-18
-place: 都江堰/四川/中国
-bib: UNKNOWN
-time: "03:53:56"
-memo: 大PB，终于破4了
+date:   2025-05-11
+place: 怀宁/安徽/中国
+bib: A0300
+time: "02:58:36"
+memo: 全场一骑绝尘，解锁安徽
 categories: marathon
 max_iterations: 1
 ---

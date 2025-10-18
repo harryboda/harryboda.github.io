@@ -1,0 +1,40 @@
+---
+layout: default
+title:  "2025香格里拉越野赛-PTS普达措50K"
+name: "2025香格里拉越野赛-PTS普达措50K"
+description: 用脚步丈量世界
+date:   2025-06-02
+place: 香格里拉/云南/中国
+bib: "M250"
+time: "06:46:25"
+memo: 总排名41，男子29
+categories: trail
+permalink: /trail/2025XGLL50K.html
+max_iterations: 1
+---
+[back](/trail)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：{{ page.place }}
+
+比赛名称：{{ page.title }}
+
+参赛号码：{{ page.bib}}
+
+完赛成绩：{{ page.time }}
+
+备注：{{ page.memo }}
+
+完赛证书：
+![Octocat](/images/{{ page.name }}/{{ page.name }}.png)
+
+精彩瞬间：
+<ul>
+{% assign max = page.max_iterations | plus: 0 %}
+{% for i in (1..max) %}
+    <li><img src="/images/{{ page.name }}/{{ page.name }}-{{ i }}.jpeg"></li>
+{% endfor %}
+</ul>
+
+[back](/trail)

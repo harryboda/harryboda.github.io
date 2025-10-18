@@ -1,0 +1,40 @@
+---
+layout: default
+title:  "2025梅里100极限耐力赛-超级玩家30.5K"
+name: "2025梅里100极限耐力赛-超级玩家30.5K"
+description: 用脚步丈量世界
+date:   2025-05-30
+place: 梅里/云南/中国
+bib: "MSA273"
+time: "02:11:12"
+memo: 暴雨比赛改赛道所有组别改15K
+categories: trail
+permalink: /trail/2025MEILI100.html
+max_iterations: 1
+---
+[back](/trail)
+
+比赛时间：{{ page.date | date: "%Y-%m-%d" }}
+
+比赛地点：{{ page.place }}
+
+比赛名称：{{ page.title }}
+
+参赛号码：{{ page.bib}}
+
+完赛成绩：{{ page.time }}
+
+备注：{{ page.memo }}
+
+完赛证书：
+![Octocat](/images/{{ page.name }}/{{ page.name }}.png)
+
+精彩瞬间：
+<ul>
+{% assign max = page.max_iterations | plus: 0 %}
+{% for i in (1..max) %}
+    <li><img src="/images/{{ page.name }}/{{ page.name }}-{{ i }}.jpeg"></li>
+{% endfor %}
+</ul>
+
+[back](/trail)

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- 跑步人物图标 -->
+  <circle cx="16" cy="6" r="3" fill="#155799" stroke="#fff" stroke-width="1"/>
+  <!-- 身体 -->
+  <ellipse cx="16" cy="14" rx="4" ry="6" fill="#155799" stroke="#fff" stroke-width="1"/>
+  <!-- 左臂 -->
+  <ellipse cx="12" cy="12" rx="1.5" ry="4" fill="#155799" transform="rotate(-30 12 12)"/>
+  <!-- 右臂 -->
+  <ellipse cx="20" cy="12" rx="1.5" ry="4" fill="#155799" transform="rotate(30 20 12)"/>
+  <!-- 左腿 -->
+  <ellipse cx="14" cy="22" rx="2" ry="6" fill="#155799" transform="rotate(-20 14 22)"/>
+  <!-- 右腿 -->
+  <ellipse cx="18" cy="22" rx="2" ry="6" fill="#155799" transform="rotate(20 18 22)"/>
+  <!-- 运动轨迹线条 -->
+  <path d="M 4 28 Q 8 24 12 26 Q 16 28 20 26 Q 24 24 28 28" stroke="#ff6b35" stroke-width="2" fill="none" opacity="0.7"/>
+</svg>

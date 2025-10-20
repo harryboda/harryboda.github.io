@@ -6,8 +6,8 @@ description: 用脚步丈量世界
 date:   2025-10-19
 place: Toronto/Canada
 bib: 8961
-time: "02:53:13"
-memo: 三刷多伦多湖滨马，加拿大最大规模马拉松
+time: "03:05:40"
+memo: 三刷多伦多湖滨马，加拿大最大规模马拉松，破三演砸了
 categories: marathon
 max_iterations: 1
 ---

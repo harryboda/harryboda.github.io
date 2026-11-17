@@ -30,6 +30,7 @@ layout: default
         <li>2024/08/10完成2024巴黎奥运会马拉松大众组，实现奥运梦想，03:11:16，成为<span style="color:red;">奥运跑者</span></li>
         <li>2024/10/03完成戈19A+，实现冠军梦想，拿下大师组冠军和全场冠军，13:17:28创造新赛道赛道纪录，完成<span style="color:red;">戈壁B，A，A+大满贯</span></li>
         <li>2025/09/20完成<span style="color:red;">巨人之旅TOR330</span>，成为巨人胖达，圆梦世界长距离越野终极梦想</li>
+        <li>2026/08/30完成<span style="color:red;">UTMB PTL</span>，世界上最难的越野团队赛，Forever Young！</li>
     </ul>
 
 <h3>百马进度</h3>
@@ -42,39 +43,43 @@ layout: default
     <h3>TODO</h3>
     <ul>
         <li><strike>戈赛A+</strike></li>
-        <li>UTMB/UTMB</li>
+        <li><strike>UTMB/UTMB</strike></li>
         <li>FUJI 168</li>
         <li>WSER/100M</li>
         <li><strike>巨人之旅TOR330</strike></li>
         <li>八百流沙</li>
         <li>环青海湖七天七马</li>
         <li>南极马拉松</li>
-        <li>珠峰马拉松</li>
-        <li>雅典马拉松</li>
+        <li><strike>珠峰马拉松</strike></li>
+        <li>雅典马拉松(一般在纽约马拉松后一周)</li>
         <li>悉尼马拉松</li>
         <li>首尔马拉松</li>
         <li>新加坡马拉松</li>
         <li>朝鲜马拉松</li>
         <li>越南马拉松</li>
         <li>777</li>
+        <li>智利世界最南马拉松之一：麦哲伦海峡马拉松</li>
+        <li>阿根廷世界尽头马拉松：乌斯怀亚马拉松(2025/4/20)</li>
+        <li>阿根廷世界尽头越野：<a href="https://ushuaiatrailrace.com">乌斯怀亚越野（2025/12/6）</a></li>
+        <li><strike>葡萄牙：Madeira Island Ultra-Trail®</strike></li>
         <li>------省会-------</li>
         <li>拉萨马拉松</li>
         <li>台北马拉松</li>
         <li><strike>长沙马拉松</strike></li>
         <li>西安马拉松</li>
         <li>昆明马拉松</li>
-        <li>长春马拉松</li>
+        <li><strike>长春马拉松</strike></li>
         <li>石家庄马拉松</li>
         <li>南昌马拉松</li>
-        <li>南宁马拉松</li>
-        <li>呼和浩特马拉松</li>
+        <li><strike>南宁马拉松</strike></li>
+        <li><strike>呼和浩特马拉松</strike></li>
         <li>西宁马拉松</li>
-        <li>天津马拉松</li>
+        <li><strike>天津马拉松</strike></li>
         <li>------备选-------</li>
         <li>深圳马拉松</li>
         <li>乌鲁木齐马拉松</li>
         <li>成都马拉松</li>
-        <li>郑开马拉松</li>
+        <li>郑州马拉松</li>
         <li>沈阳马拉松</li>
         <li>海口马拉松</li>
         <li>贵阳马拉松</li>
